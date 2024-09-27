@@ -1,0 +1,20 @@
+{
+  "name": "konoha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "22": "^0.0.0",
+    "express": "^4.21.0",
+    "express-validator": "^7.2.0",
+    "mongodb": "^6.9.0",
+    "mongoose": "^8.6.4"
+  }
+}
